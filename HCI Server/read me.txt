@@ -1,0 +1,6 @@
+*** after connect wifi get ip using "ipconfig" & add that ip address into multi.py ip='....'
+
+1) cmd
+2) python multi.py
+3) unity
+4) webSoc.html
